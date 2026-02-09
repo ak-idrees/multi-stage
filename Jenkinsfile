@@ -31,7 +31,5 @@ pipeline {
                         echo "deploying the image.."
                     }
                 }
-            }
-    }   
-
-}
+              }
+    }
